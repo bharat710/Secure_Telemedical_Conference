@@ -1,10 +1,5 @@
 # Assignment 2: Secure Telemedical Conference using Digital Signature
 
-### Submitted by
-1) Adhivishnu : Roll number 2024202028
-2) Bharat Majeti : Roll number 2024202030
-3) Rishabh Sahu : Roll number 2024201037
-
 ## Overview
 This project implements a secure telemedical conferencing system that enables confidential communication between a doctor and multiple patients. The system uses cryptographic techniques including ElGamal encryption/digital signatures and AES encryption to ensure secure authentication, key exchange, and encrypted communication.
 
@@ -179,4 +174,5 @@ The project code is primarily implemented using **Python** programming language.
 - ElGamal Digital signature generation: CRYPTOGRAPHY AND NETWORK SECURITY PRINCIPLES AND PRACTICE SEVENTH EDITION GLOBAL EDITION Chapter 13 page 424
 - ElGamal cryptography procedure: Chapter 10 page 318
 - Python Socket Programming: https://docs.python.org/3/library/socket.html
+
 - PyCryptodome Documentation: https://pycryptodome.readthedocs.io/  
